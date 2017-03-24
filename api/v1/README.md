@@ -81,7 +81,7 @@ GET http://teendevops.net/api/v1/chat/get/?channel=1&limit=2&format=json
          "username":"spamaccount",
          "timestamp":"2017-03-04 01:27:33",
          "channel":1,
-         "message":"hey\n",
+         "message":"hey",
          "deleted":false,
          "message_id":1
       },
@@ -89,7 +89,7 @@ GET http://teendevops.net/api/v1/chat/get/?channel=1&limit=2&format=json
          "username":"spamaccount",
          "timestamp":"2017-03-04 01:27:40",
          "channel":1,
-         "message":"how r u\n",
+         "message":"how r u",
          "deleted":false,
          "message_id":2
       }
